@@ -1,4 +1,4 @@
-ppackage com.yeditepe.finalexam.viewmodel
+package com.yeditepe.finalexam.viewmodel
 
 import androidx.lifecycle.ViewModel
 import com.yeditepe.finalexam.model.Task
